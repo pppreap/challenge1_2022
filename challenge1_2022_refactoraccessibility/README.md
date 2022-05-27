@@ -26,9 +26,9 @@ THEN I find a **concise, descriptive title**
 
 These images demonstrates the design of the website:
 
-![Top part of Website](./assets/images/site1.png)
+![Top part of Website](.Develop/assets/images/site1.png)
 
-![Bottom part of wesbite](./assets/images/site2.png)
+![Bottom part of wesbite](.Develop/assets/images/site2.png)
 
 #### Credits
 
