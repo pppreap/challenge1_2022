@@ -32,4 +32,4 @@ These images demonstrates the design of the website:
 
 #### Credits
 
-Code from MSU Git Lab Repository. 2022.
+Code from Michigan State University Git Lab Repository Coding Boot Camp. 2022.
