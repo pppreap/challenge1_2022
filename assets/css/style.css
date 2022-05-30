@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-header { /* added header instead replace all .header ,  removing div tag direct element reference*/
+header { /* added header instead, replace all .header ,  removing div tag direct element reference*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -219,7 +219,7 @@ p {
     font-size: 36px;
 }*/
 
-footer {  /* removed. direct footer chnaged tag in html*/
+footer {  /* removed. direct footer changed tag in html*/
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
