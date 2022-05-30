@@ -26,9 +26,9 @@ THEN I find a **concise, descriptive title**
 
 These images demonstrate the design of the website:
 
-![Top part of Website](./challenge1_2022_refactoraccessibility/Develop/assets/images/site1.png)
+![Top part of Website](./assets/images/site1.png)
 
-![Bottom part of wesbite](./challenge1_2022_refactoraccessibility/Develop/assets/images/site2.png)
+![Bottom part of wesbite](./assets/images/site2.png)
 
 #### Credits
 
