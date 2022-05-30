@@ -1,7 +1,7 @@
 # User Story: Improve Accessibility Standards for Existing Website 
 
 The client, marketing agency wants a codebase that follows accessibility standards.
-As a developer 	:woman_technologist:, a site that is **optimized** for search engines is created.
+As a developer 	:woman_technologist:, an **optimized site** is created with accessibility standards listed in the criteria below.
 
 ## Acceptance Criteria 
 
